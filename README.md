@@ -1,5 +1,5 @@
 
-# <a href="https://appurl.io/uelFw_j_AI" target="_blank">1. MicroLoop</a>: A shiny R app for Metagenomics data analysis
+# <a href="https://appurl.io/uelFw_j_AI" target="_blank"> MicroLoop</a>: A shiny R app for Metagenomics data analysis
 
 <p style="color: purple">Microbiome data analysis has posed many challenges on the researchers and decision-making entities, due to its complexity and hefty work that comes with it. In addition, due to lack of a golden standard for this type of sparce data analysis reproducibility of the results from lab to lab might be jeopardized. Therefore, MicroLoop was developed as a shiny app in R to perfom a wide variety of task with no need for hard-coding and any demanding bioinformatics skills.
 
